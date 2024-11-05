@@ -3,3 +3,4 @@ build
 *.stl
 *.icloud
 .vscode
+.vs
